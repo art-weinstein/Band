@@ -1,0 +1,21 @@
+.shows {
+  width: 20%;
+  float: right;
+  background-color: green;
+  color: whitesmoke;
+  Height: 2000px;
+}
+
+.img {
+  float: left;
+  background-color: black;
+}
+
+.text {
+  float: none; 
+  color: white;
+}
+
+body {
+  background-color: black;
+}
